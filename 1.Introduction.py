@@ -1,5 +1,3 @@
-#1st class
-
 invitation = 20
 
 invitation_last_year = 50
@@ -7,4 +5,3 @@ invitation_last_year = 50
 invitation, invitation_last_year = 12, 20
 
 invitation
-
